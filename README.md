@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrimeXtreme
 - 👀 I’m interested in Astronomy, Robotics and Coding/Programming.
-- 🌱 I’m currently learning HTML, JavaScript and Python.
+- 🌱 I’m currently learning HTML, JavaScript, Python, Java and Kotlin.
 - 📫 How to reach me ... Email me at PrimeXtreme@users.noreply.github.com
 
 <!---
